@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/giacomo-antonioli-66452414b/">
-  <img src="assets/linkedin_logo.png" width=35>
+  <img src="linkedin_logo.png" width=35>
 </a>
 
 
