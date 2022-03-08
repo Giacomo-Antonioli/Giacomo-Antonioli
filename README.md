@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giacomo Antonioli</h1>
 <h3 align="center">A Master Degree student of AI at Unipi</h3>
-<p align="left"><a> <img src=(https://github-profile-trophy.vercel.app/?username=giacomo-antonioli&theme=discord" alt="giacomo-antonioli" /></a> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giacomo-antonioli&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="giacomo-antonioli" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
